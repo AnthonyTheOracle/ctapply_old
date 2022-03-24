@@ -5,7 +5,7 @@ Version: 0.0.0.9000
 Author@R: person("Anthony", "McCofie", email = "anthonymccofie@usf.edu",
                   role = c("aut", "cre"))
 Maintainer: anthonymccofie@usf.edu
-Description: This package return the measure of central tendency for a numeric vector x.
+Description: This package (ctapply) return the measure of central tendency for a numeric vector x.
     The user has a choice to either print or just return the measure.
 Depends: R (>= 3.5.0)
 License: This is an open source package with NO WARRANTY
